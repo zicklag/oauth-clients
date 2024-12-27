@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/zicklag/oauth-clients/refs/heads/master/localhost-atproto.json",
+  "client_id": "https://zicklag.github.io/oauth-clients/localhost-atproto.json",
   "client_name": "Localhost App",
   "client_uri": "http://127.0.0.1:8080",
   "logo_uri": "http://127.0.0.1:8080/public/favicon.ico",
