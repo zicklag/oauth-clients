@@ -1,0 +1,15 @@
+{
+  "client_id": "https://zicklag.github.io/oauth-clients/pigeon-demo.json",
+  "client_name": "Pigeon Chat",
+  "client_uri": "https://zicklag.github.io/pigeon",
+  "logo_uri": "https://zicklag.github.io/pigeon/public/favicon.ico",
+  "tos_uri": "https://zicklag.github.io/pigeon",
+  "policy_uri": "https://zicklag.github.io/pigeon",
+  "redirect_uris": ["https://zicklag.github.io/pigeon/_matrix/custom/oauth/callback"],
+  "scope": "atproto",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "dpop_bound_access_tokens": true
+}
